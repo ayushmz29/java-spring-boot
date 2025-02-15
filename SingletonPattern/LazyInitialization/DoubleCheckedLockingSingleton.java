@@ -1,4 +1,4 @@
-package SingletonPattern.LazySingletons;
+package SingletonPattern.LazyInitialization;
 
 /**
  * Thread-Safe: Yes (with volatile keyword in Java 5+).

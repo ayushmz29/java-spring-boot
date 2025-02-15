@@ -1,4 +1,4 @@
-package SingletonPattern.LazySingletons;
+package SingletonPattern.LazyInitialization;
 
 /**
  * Thread-Safe: No (fails in multithreaded environments).

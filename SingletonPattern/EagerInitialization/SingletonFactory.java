@@ -1,4 +1,4 @@
-package SingletonPattern.EagerSingleton;
+package SingletonPattern.EagerInitialization;
 
 /**
  * Singleton with static factory method.

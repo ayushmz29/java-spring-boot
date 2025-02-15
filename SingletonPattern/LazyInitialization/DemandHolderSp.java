@@ -1,4 +1,4 @@
-package SingletonPattern.LazySingletons;
+package SingletonPattern.LazyInitialization;
 
 /**
  * The Initialization on Demand Holder (design pattern) idiom is a lazy-loaded singleton.

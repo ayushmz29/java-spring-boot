@@ -1,4 +1,4 @@
-package SingletonPattern.EagerSingleton;
+package SingletonPattern.EagerInitialization;
 
 /**
  * Singleton with public static final field.
