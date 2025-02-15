@@ -1,4 +1,4 @@
-package SingletonPattern;
+package SingletonPattern.EagerInitialization;
 
 /**
  * The best method for creating singletons in java.
